@@ -1,12 +1,12 @@
-title: generic-python-creating-a-variable
+title: Creating a variable in Python
 hero_image: images/banner.png
-description: generic-python-creating-a-variable description
+description: Find out how to create a variable
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 listed: false
-ingredient: false
+ingredient: true
 interests: "jokes/pranks, sports, art/design, photography, games, outside/weather/nature, space, animals, music/sound"
-technologies: "scratch, python, html/css, micro:bit"
+technologies: "python"
 steps:
   - title: Step one
