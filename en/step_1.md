@@ -1,12 +1,12 @@
-A variable allows us to store data within a program. Variables have a **name** and a **value**.
+A variable allows you to store data within a program. Variables have a **name** and a **value**.
 
-This variable has the name `animal` and the value `cat`
+This variable has the name `animal` and the value `cat`:
 
 ```python
 animal = "cat"
 ```
 
-This variable has the name `score` and the value `30`
+This variable has the name `score` and the value `30`:
 
 ```python
 score = 30
