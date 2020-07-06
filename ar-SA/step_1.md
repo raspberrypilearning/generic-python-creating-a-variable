@@ -1,20 +1,20 @@
-A variable allows you to store data within a program. Variables have a **name** and a **value**.
+المتغير يسمح لك بتخزين البيانات داخل البرنامج. المتغيرات لها **اسم** و**قيمة**.
 
-This variable has the name `animal` and the value `cat`:
+هذا المتغير يحمل اسم `animal` والقيمة `القط`:
 
 ```python
-animal = "cat"
+animal = "القط"
 ```
 
-This variable has the name `score` and the value `30`:
+هذا المتغير يحمل اسم `score ` والقيمة `30`:
 
 ```python
 score = 30
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes on the left, so this code is wrong:
+لإنشاء متغير، أعطه اسماً واجعله مساوياً لقيمة. اسم المتغير دائما يكون على اليسار، لذلك هذه التعليمة البرمجية خاطئة:
 
 ```python
-# This code is wrong
+# هذه التعليمة البرمجية خاطئة
 30 = score      
 ```
