@@ -12,9 +12,9 @@ animal = "बिल्ली"
 score = 30
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes on the left, so this code is wrong:
+वेरिएबल बनाने के लिए, इसे एक नाम दें और इसे एक मूल्य के बराबर सेट करें। वेरिएबल का नाम हमेशा बाईं ओर होता है, इसलिए यह कोड गलत है:
 
 ```python
-# This code is wrong
+#यह कोड गलत है
 30 = score      
 ```
