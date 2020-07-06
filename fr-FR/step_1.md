@@ -1,20 +1,20 @@
-A variable allows you to store data within a program. Variables have a **name** and a **value**.
+Une variable te permets de stocker des données dans un programme. Les variables ont un **nom** et une **valeur**.
 
-This variable has the name `animal` and the value `cat`:
+Cette variable a le nom `animal` et la valeur `chat` :
 
 ```python
-animal = "cat"
+animal = "chat"
 ```
 
-This variable has the name `score` and the value `30`:
+Cette variable a le nom ` score ` et la valeur ` 30 ` :
 
 ```python
 score = 30
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes on the left, so this code is wrong:
+Pour créer une variable, donne-lui un nom et définis-la comme égale à une valeur. Le nom de la variable va toujours à gauche, donc ce code est incorrect :
 
 ```python
-# This code is wrong
+# Ce code est erroné
 30 = score      
 ```
