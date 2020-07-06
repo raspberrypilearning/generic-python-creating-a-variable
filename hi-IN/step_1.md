@@ -1,12 +1,12 @@
-A variable allows you to store data within a program. Variables have a **name** and a **value**.
+वेरिएबल आपको प्रोग्राम के भीतर डेटा स्टोर करने की अनुमति देता है। वेरिएबल के पस **नाम (name)** और **मान (value)** होता है ।
 
-This variable has the name `animal` and the value `cat`:
+इस वेरिएबल का नाम `animal` है और मान `cat` है:
 
 ```python
-animal = "cat"
+animal = "बिल्ली"
 ```
 
-This variable has the name `score` and the value `30`:
+इस वेरिएबल का नाम `score` है और मान `30` है:
 
 ```python
 score = 30
