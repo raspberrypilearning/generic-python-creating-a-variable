@@ -1,0 +1,15 @@
+---
+title: Creating a variable in Python
+hero_image: images/banner.png
+description: Find out how to create a variable
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "python"
+steps:
+  - 
+    title: Create a variable
