@@ -1,20 +1,20 @@
-A variable allows you to store data within a program. Variables have a **name** and a **value**.
+Μια μεταβλητή σου επιτρέπει να αποθηκεύεις δεδομένα μέσα σε ένα πρόγραμμα. Οι μεταβλητές έχουν ένα **όνομα** και μια **τιμή**.
 
-This variable has the name `animal` and the value `cat`:
+Αυτή η μεταβλητή έχει το όνομα `ζώο` και την τιμή `"γάτα"`:
 
 ```python
-animal = "cat"
+ζώο = "γάτα"
 ```
 
-This variable has the name `score` and the value `30`:
+Αυτή η μεταβλητή έχει το όνομα `βαθμολογία` και την τιμή `30`:
 
 ```python
-score = 30
+βαθμολογία = 30
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes on the left, so this code is wrong:
+Για να δημιουργήσεις μια μεταβλητή, δώσε της ένα όνομα και όρισέ την ίση με μια τιμή. Το όνομα της μεταβλητής βρίσκεται πάντα στα αριστερά, οπότε αυτός ο κώδικας είναι λάθος:
 
 ```python
-# This code is wrong
-30 = score      
+# Αυτός ο κώδικας είναι λάθος
+30 = βαθμολογία      
 ```
