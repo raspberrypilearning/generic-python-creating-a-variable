@@ -1,5 +1,5 @@
 ---
-title: Creating a variable in Python
+title: Python で変数を作成する
 hero_image: images/banner.png
 description: Find out how to create a variable
 original_url:
@@ -12,4 +12,4 @@ interests: ""
 technologies: "python"
 steps:
   - 
-    title: Create a variable
+    title: 変数を作成する
