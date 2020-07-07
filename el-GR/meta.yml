@@ -1,7 +1,7 @@
 ---
-title: Creating a variable in Python
+title: Δημιουργία μεταβλητής στην Python
 hero_image: images/banner.png
-description: Find out how to create a variable
+description: Μάθε πώς να δημιουργείς μια μεταβλητή
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: "python"
 steps:
   - 
-    title: Create a variable
+    title: Δημιούργησε μία μεταβλητή
