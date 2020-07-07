@@ -1,20 +1,20 @@
-A variable allows you to store data within a program. Variables have a **name** and a **value**.
+変数を使用すると、プログラム内にデータを保存できます。 変数は **名前** と **値** を持っています。
 
-This variable has the name `animal` and the value `cat`:
+この変数の名前は `animal` (動物) で、値は `ねこ`です。
 
 ```python
-animal = "cat"
+animal = "ねこ"
 ```
 
-This variable has the name `score` and the value `30`:
+この変数の名前は `score` (得点)で、値は `30`です。
 
 ```python
 score = 30
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes on the left, so this code is wrong:
+変数を作成するには、名前を決め、値とイコール記号でつなげます。 変数の名前は常に左側に書く必要があるため、次のコードはまちがっています。
 
 ```python
-# This code is wrong
+# このコードはまちがっています
 30 = score      
 ```
