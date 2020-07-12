@@ -12,9 +12,9 @@ Esta variable tiene el nombre `puntuacion` y el valor `30`:
 puntuacion = 30
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes on the left, so this code is wrong:
+Para crear una variable, dale un nombre y dale un valor. El nombre de la variable siempre va a la izquierda, por lo que este código es incorrecto:
 
 ```python
-# This code is wrong
-30 = score      
+# Este código es incorrecto
+30 = puntuacion      
 ```
