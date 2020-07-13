@@ -1,0 +1,14 @@
+---
+title: إنشاء متغير في لغة البرمجة Python
+hero_image: images/banner.png
+description: تعرف على كيفية إنشاء متغير
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "python"
+steps:
+  - title: إنشاء متغير

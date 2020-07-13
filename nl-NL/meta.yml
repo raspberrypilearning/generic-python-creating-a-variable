@@ -1,0 +1,14 @@
+---
+title: Een variabele maken in Python
+hero_image: images/banner.png
+description: Ontdek hoe je een variabele kunt maken
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "python"
+steps:
+  - title: Maak een variabele
