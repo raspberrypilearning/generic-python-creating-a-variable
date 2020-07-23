@@ -1,4 +1,4 @@
-Une variable te permets de stocker des données dans un programme. Les variables ont un **nom** et une **valeur**.
+Une variable te permet de stocker des données dans un programme. Les variables ont un **nom** et une **valeur**.
 
 Cette variable a le nom `animal` et la valeur `chat` :
 
