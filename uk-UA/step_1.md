@@ -1,20 +1,20 @@
-A variable allows you to store data within a program. Variables have a **name** and a **value**.
+Змінна дозволяє зберігати дані в межах програми. Кожна змінна має **ім'я** і **значення**.
 
-This variable has the name `animal` and the value `cat`:
+Ця змінна має ім'я `animal` і значення `кіт`:
 
 ```python
-animal = "cat"
+animal = "кіт"
 ```
 
-This variable has the name `score` and the value `30`:
+Ця змінна має назву `score` (рахунок) і значення `30`:
 
 ```python
 score = 30
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes on the left, so this code is wrong:
+Щоб створити змінну, дай їй ім'я та встанови її значення. Ім'я змінної завжди знаходиться зліва, тому цей код неправильний:
 
 ```python
-# This code is wrong
+# Цей код неправильний
 30 = score      
 ```
