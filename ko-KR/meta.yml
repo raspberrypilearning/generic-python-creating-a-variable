@@ -1,0 +1,14 @@
+---
+title: 파이썬에서 변수 만들기
+hero_image: images/banner.png
+description: 변수를 만드는 방법 알아보기
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "python"
+steps:
+  - title: 변수 만들기
