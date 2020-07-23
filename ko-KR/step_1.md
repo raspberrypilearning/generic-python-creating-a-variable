@@ -1,20 +1,20 @@
-A variable allows you to store data within a program. Variables have a **name** and a **value**.
+변수를 사용하면 프로그램 내에 데이터를 저장할 수 있습니다. 변수는 **이름**과 **값**을 가지고 있습니다.
 
-This variable has the name `animal` and the value `cat`:
+아래 Code를 보면, 변수의 이름은 `animal` 이고 변수에 주어진 텍스트 값은 `cat` 입니다.
 
 ```python
 animal = "cat"
 ```
 
-This variable has the name `score` and the value `30`:
+아래 Code를 보면, 변수의 이름은 `score`이고 변수의 값은 `30`입니다.
 
 ```python
 score = 30
 ```
 
-To create a variable, give it a name and set it equal to a value. The name of the variable always goes on the left, so this code is wrong:
+변수를 만들려면 이름을 설정하고 값과 동일하게 설정하세요. 변수의 이름은 항상 왼쪽에 가야하므로 다음 코드는 잘못된 것입니다.
 
 ```python
-# This code is wrong
+# 이 코드는 틀렸습니다.
 30 = score      
 ```
